@@ -4,7 +4,7 @@
 This is a content-based recommendation engine that suggests movies based on a user's preferences. By analyzing metadata—genres, keywords, cast, and crew—the system calculates similarity scores to deliver personalized recommendations.
 
 ## 🚀 Live Demo
-**[Click here to view the live app!]([https://your-app-name.streamlit.app/](https://movie-recommender-system-rahilshah.streamlit.app/))**
+**[Click here to view the live app!](https://movie-recommender-system-rahilshah.streamlit.app/)**
 
 ## 🛠️ Tech Stack
 * **Machine Learning:** NLP, Cosine Similarity, CountVectorizer
